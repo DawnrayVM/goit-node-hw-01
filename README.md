@@ -2,6 +2,7 @@
 
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 
+<img src="https://monosnap.com/image/jIi67KrOS4ygmMKhbmZq5VRa1Z22BN"/>
 https://monosnap.com/file/jIi67KrOS4ygmMKhbmZq5VRa1Z22BN
 
 # Получаем контакт по id

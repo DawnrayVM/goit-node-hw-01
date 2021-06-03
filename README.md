@@ -6,14 +6,14 @@
 
 # Получаем контакт по id
 
-<img src="https://monosnap.com/file/A0DAI2ELaMHrQIMtt8zToZUSsNlSzy"/>
+<img src="https://monosnap.com/image/A0DAI2ELaMHrQIMtt8zToZUSsNlSzy"/>
 
 # Добавялем контакт
 
-<img src="https://monosnap.com/file/saDWGk9I59quAyLp6rS2czmXB3rUJN"/>
-<img src="https://monosnap.com/file/0JJncinvO50zD98xVSsyHmQOftgacz"/>
+<img src="https://monosnap.com/image/saDWGk9I59quAyLp6rS2czmXB3rUJN"/>
+<img src="https://monosnap.com/image/0JJncinvO50zD98xVSsyHmQOftgacz"/>
 
 # Удаляем контакт
 
-<img src="https://monosnap.com/file/ndbIR1I174B0GXupTNF8TwMKuaDQ2T"/>
-<img src="https://monosnap.com/file/TdJWAafGWmC8dEBIbdFL3C81AyfOc0"/>
+<img src="https://monosnap.com/image/ndbIR1I174B0GXupTNF8TwMKuaDQ2T"/>
+<img src="https://monosnap.com/image/TdJWAafGWmC8dEBIbdFL3C81AyfOc0"/>

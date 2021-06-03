@@ -7,7 +7,7 @@ async function listContacts() {
     try {
         const data = await fs.readFile(contactsPath);
         const parsedData = JSON.parse(data.toString());
-        parsedData.map(contact => console.log(contact.name));
+        console.table(parsedData);
     } catch (error) {
         console.log(error);
     }
